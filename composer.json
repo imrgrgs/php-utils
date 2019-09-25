@@ -1,0 +1,13 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"phputils\\" : "src"
+		}
+	},
+	"name" : "imrgrgs/php-utils",
+	"type" : "library",
+	"require" : {
+		"php" : ">=5.6"
+	},
+	"minimum-stability" : "dev"
+}
